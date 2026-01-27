@@ -2,5 +2,5 @@
 
 Personal project repository
 
-direct
+direct connect to project
 
